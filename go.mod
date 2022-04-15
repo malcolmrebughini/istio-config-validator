@@ -6,7 +6,7 @@ require (
 	github.com/ghodss/yaml v1.0.0
 	github.com/stretchr/testify v1.7.1
 	go.uber.org/zap v1.21.0
-	istio.io/api v0.0.0-20220324153658-ed22b1f4f382
+	istio.io/api v0.0.0-20220415145822-bfb8bb7bb3e2
 	istio.io/client-go v1.13.2
 	istio.io/pkg v0.0.0-20220324141558-816f3a89b4a3
 	k8s.io/apimachinery v0.23.5
